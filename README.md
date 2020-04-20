@@ -96,8 +96,8 @@ cd ../results_utils
 python3 plot_loss_accuracy_curves.py
 ```
 
-![](../../../../../../Downloads/MusicFeaturization-master/results/loss.svg)
-![](../../../../../../Downloads/MusicFeaturization-master/results/accuracy.svg)
+![](MusicFeaturization-master/results/loss.svg)
+![](MusicFeaturization-master/results/accuracy.svg)
 
 In this case, the sixth 6 minimizes the validation loss and maximizes the validation accuracy.
 
