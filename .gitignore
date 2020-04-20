@@ -12,7 +12,6 @@ datasets/train_test_val
 models/best_model
 models/best_model.zip
 
-# PyCharm
 .idea
 .idea/
 .idea/*
