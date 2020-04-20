@@ -7,6 +7,8 @@ datasets/mp3_files
 datasets/spectrogram_images_class_files
 datasets/spectrogram_images_mp3_files
 datasets/annotations_final.csv
+datasets/train_test_val
+
 models/best_model
 models/best_model.zip
 
