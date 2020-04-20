@@ -1,0 +1,13 @@
+Put Magnatagatune dataset here.
+
+The dataset can be found at
+
+http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset
+
+Download and extract the archive in this directory.
+Create the sub-directory .mp3 and drug inside it all the new folders: 0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f
+Performs the steps in "dataset_utils"
+When completed, this folder will contain the following sub_directories:
+- spectrogram_images_class_files
+- spectrogram_images_mp3_files
+- train_test_val
