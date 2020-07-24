@@ -1,8 +1,8 @@
 # Music Featurization
 
-This is the featurization step for the project "Inferring Music And Visual Art Style Evolution via Computational Intelligence" (1).
+This is the featurization step for the project "Walking through the Music and Visual Art StyleSpace via Computational Intelligence" (1).
 
-1. https://github.com/erikagardini/InferringMusicAndVisualArtStyleEvolution/edit/master/README.md
+1. https://github.com/erikagardini/Walking-through-the-Music-and-Visual-Art-StyleSpace-via-Computational-Intelligence
 
 ## Downloads files
 
