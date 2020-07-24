@@ -112,7 +112,7 @@ cd ../python
 python3 2-testing.py
 ```
 
-When the testing is completed, the file _music_dataset_testing.csv_ is saved inside the directory _results_ and contains the output of the penultimate layer of the network during the testing. This dataset is used for the experiment "Inferring Music And Visual Art Style Evolution via Computational Intelligence" (1).
+When the testing is completed, the file _music_dataset_testing.csv_ is saved inside the directory _results_ and contains the output of the penultimate layer of the network during the testing.
 
 ### Step 5: Format the dataset
 
@@ -120,7 +120,7 @@ When the testing is completed, the file _music_dataset_testing.csv_ is saved ins
 python3 3-format_dataset.py
 ```
 
-When this step is completed, the file _music_dataset.csv_ is saved inside the directory _results_. This dataset is used for the experiment "Inferring Music And Visual Art Style Evolution via Computational Intelligence" (1).
+When this step is completed, the file _music_dataset.csv_ is saved inside the directory _results_. This dataset is used for the experiment "Walking through the Music and Visual Art StyleSpace via Computational Intelligence" (1).
 
 ### Step 6: Analize the performance of the model
 
