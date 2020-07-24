@@ -2,8 +2,12 @@
 
 This is the featurization step for the project "Walking through the Music and Visual Art StyleSpace via Computational Intelligence" (1).
 
-1. https://github.com/erikagardini/Walking-through-the-Music-and-Visual-Art-StyleSpace-via-Computational-Intelligence
+Here we extracted the features from the penultimate layer of the network implemented by the author Hareesh Bahuleyan (2)(3), and we retrained the network usign the Magnatagatune dataset (4).
 
+1. https://github.com/erikagardini/Walking-through-the-Music-and-Visual-Art-StyleSpace-via-Computational-Intelligence
+2. Bahuleyan, H. Music Genre Classification using Machine Learning Techniques. arXiv:1804.01149
+3. https://github.com/HareeshBahuleyan/music-genre-classification
+4. http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset
 ## Downloads files
 
 ```
